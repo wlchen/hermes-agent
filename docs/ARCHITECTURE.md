@@ -809,7 +809,7 @@ graph TB
 
 ```yaml
 model:
-  model: "anthropic/claude-opus-4.5"
+  model: "anthropic/claude-opus-4.6"
   base_url: "https://openrouter.ai/api/v1"
   provider: "openrouter"
 
